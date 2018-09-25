@@ -28,7 +28,7 @@ public class MainClass {
 		switch(choice)
 		{
 		case 1:
-			
+			System.out.println("hello");
 	}
 
 }
